@@ -13,4 +13,4 @@ void printFactorial(int n){
     printf("%d! = %d\n", n, factorial(n));
 }
 
-//gcc -Wall -std=c99 -pedantic -Werror calculations.c modularProg.c -o finalProg
+//gcc -Wall -std=c99 -pedantic -Werror calculations.c modularProg.c -o 
